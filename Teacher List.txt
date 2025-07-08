@@ -1,0 +1,10 @@
+T001 TeacherA 123
+T002 TeacherB teach002
+T003 TeacherC 123
+T004 TeacherD teach004
+T005 TeacherE teach005
+T006 TeacherF teach006
+T007 TeacherG teach007
+T008 TeacherH teach008
+T009 TeacherI teach009
+T010 TeacherJ teach010

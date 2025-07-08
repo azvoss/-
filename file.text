@@ -1,0 +1,21 @@
+﻿学生名单：Student List.txt
+教师名单：Teacher List.txt
+班主任名单：Head Teacher List.txt
+系主任名单：Head Dept List.txt
+课程名单：Course List.txt
+
+添加课程的时间多一项：
+	星期几
+	做表格的时候更好看
+
+把system里面的界面函数分离出来
+把UML图组合关系和聚合关系分离清楚
+
+改进：
+	平均分
+	可以在输入id时候判断有没有这个id存在
+	建立管理者界面for
+		添加人员
+		删除人员
+	在课程分数中 有学生未被评分的放"-"[done]
+	在判断学生教师...的函数可以组成一个

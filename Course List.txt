@@ -1,0 +1,11 @@
+C001 Math TeacherA Mon 0800-0900 ClassA 0
+C002 English TeacherB Mon 0900-1000 ClassB 0
+C003 Physics TeacherA Tue 0800-0900 ClassA 0
+C004 Chemistry TeacherB Tue 0900-1000 ClassB 0
+C005 Biology TeacherC Wed 0800-0900 ClassA 0
+C006 History TeacherD Wed 0900-1000 ClassB 0
+C007 Art TeacherE Thu 0800-0900 ClassA 0
+C008 Literature TeacherF Thu 0900-1000 ClassB 0
+C009 Geography TeacherC Fri 0800-0900 ClassA 1 2025001 99
+C010 Music TeacherD Fri 0900-1000 ClassB 0
+C011 Bahasa TeacherC Fri 1400-1600 ClassA 0
